@@ -1,0 +1,35 @@
+{"data":[
+        {
+            "firstName":"Zenit",
+            "lastName":"Heriyanto"
+            
+        },
+        {
+            "firstName":"Arya",
+            "lastName":"Pratama"
+            
+        },
+		{
+			"kelas":"CCIT Student Class 4SC5",
+            "program":"Software Enginner",
+			"tempat":"Live in Indonesia,",
+			"aryatempat":"",
+			"zentempat":"Bogor",
+			"age":"Age 19 years old",
+			"email":"Email Address",
+			"emailz":"zenitharryan@gmail.com",
+			"emaily":"aryap9644@gmail.com"
+		},
+		{
+            "deluexe":"The Deluxe Room has two Queen-sized beds or one King-sized bed with two permanent sofas that are ideal for relaxing, or can function as an extra bed for children.",
+            "standard":"Standard room is the type of room with the lowest facilities or according to the standard of the hotel that named it, this type of hotel is the one that has the lowest room price with other rooms.",
+			"superior":"Each hotel does have a different standardization of facilities. Depending on what star the hotel is up to the price offered. Superior room is a type of hotel room that is better in terms of facilities to a given size than the standard room.",
+			"suite":"Suite room which has a master bedroom with a luxurious en-suite bathroom, bathtub, bathrobe and a wardrobe. This room also has a living room equipped with home theater facilities, a dining room, a kitchen and an additional bathroom.",
+			"room1":"Standard Room",
+			"room2":"Deluxe Room",
+			"room3":"Suite Room",
+			"room4":"Superior Room"
+			
+            
+        }
+]}
